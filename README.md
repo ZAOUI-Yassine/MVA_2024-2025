@@ -1,24 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
-    table {
-      width: 100%;
-      border-collapse: collapse;
-    }
-    th, td {
-      border: 1px solid black;
-      text-align: left;
-      padding: 8px;
-    }
-    th {
-      background-color: #f2f2f2;
-    }
-    td.centered {
-      text-align: center;
-      vertical-align: middle;
-    }
-  </style>
+
 </head>
 <body>
 
