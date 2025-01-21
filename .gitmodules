@@ -1,0 +1,18 @@
+[submodule "MVA_S1_Image_Denoising"]
+	path = MVA_S1_Image_Denoising
+	url = https://github.com/ZAOUI-Yassine/MVA_S1_Image_Denoising.git
+[submodule "MVA_S1_Convex_Optimization"]
+	path = MVA_S1_Convex_Optimization
+	url = https://github.com/ZAOUI-Yassine/MVA_S1_Convex_Optimization.git
+[submodule "MVA_S1_ML_TimeSeries"]
+	path = MVA_S1_ML_TimeSeries
+	url = https://github.com/ZAOUI-Yassine/MVA_S1_ML_TimeSeries.git
+[submodule "MVA_S1_Computer_Vision"]
+	path = MVA_S1_Computer_Vision
+	url = https://github.com/ZAOUI-Yassine/MVA_S1_Computer_Vision.git
+[submodule "MVA_S1_Computational_Statistics"]
+	path = MVA_S1_Computational_Statistics
+	url = https://github.com/ZAOUI-Yassine/MVA_S1_Computational_Statistics.git
+[submodule "MVA_S2_Representation_Learning"]
+	path = MVA_S2_Representation_Learning
+	url = https://github.com/ZAOUI-Yassine/MVA_S2_Representation_Learning.git
