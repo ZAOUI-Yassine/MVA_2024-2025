@@ -37,7 +37,7 @@ Assignments and projects realized during the **Master Mathématiques, Vision, Ap
 
 ### Courses and Assignments
 
-| **Course**                                     | **Assignments / Projects**                                                                                   | ** Professors**                                                                                  |
+| **Course**                                     | **Assignments / Projects**                                                                                   | **Resources / Professors**                                                                                  |
 |------------------------------------------------|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
 | **Representation Learning for Computer Vision and Medical Imaging** | - Representation Learning                                                                                      | *(Pietro Gori, Loïc Le Folgoc, Hervé Delingette, Xavier Pennec)*                                            |
 |                                                | - Transfer Learning                                                                                           |                                                                                                             |
