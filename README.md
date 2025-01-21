@@ -44,7 +44,7 @@
   <tr>
     <td rowspan="3" class="centered">Machine Learning for Time Series</td>
     <td>HM1: Convolutional Dictionary Learning (CDL), Dynamic Time Warping (DTW)</td>
-    <td rowspan="3" class="centered">Laurent Oudre</td>
+    <td rowspan="3" class="centered">Laurent Oudre, Charles Truong</td>
   </tr>
   <tr><td>HM2: ARIMA Processes and Sparse Coding</td></tr>
   <tr><td>HM3: Change-Point Detection and Wavelet Transform</td></tr>
